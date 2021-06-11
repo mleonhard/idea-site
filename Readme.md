@@ -54,6 +54,7 @@ Strategies:
     - Opinion.  Ideally, the user will state their experience level
       or other reason why their opinion is worth reading.
     - Anecdata
+    - Humor
   - New users must complete a mini-course on logical thinking and fallacies,
     with a short exam.
   - The site's guidelines will encourage pointing out fallacies of ideas, points, and comments.
@@ -157,3 +158,4 @@ Strategies:
 - Verify email address
 - Verify LinkedIn
 - Verify Facebook
+- Logical Thinking course and exam
